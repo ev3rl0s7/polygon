@@ -1,0 +1,22 @@
+5
+Opponent Higher Lower
+Match Bar Cafe
+SecondPilot Play Pass
+23pmRule Yes No
+FastSex Yes No
+FastSex
+13
+Opponent=Higher Match=Bar SecondPilot=Play 23pmRule=Yes FastSex=No
+Opponent=Higher Match=Bar SecondPilot=Play 23pmRule=No FastSex=Yes
+Opponent=Higher Match=Bar SecondPilot=Pass 23pmRule=No FastSex=Yes  
+Opponent=Lower Match=Bar SecondPilot=Pass 23pmRule=No FastSex=Yes
+Opponent=Lower Match=Cafe SecondPilot=Pass 23pmRule=No FastSex=No
+Opponent=Lower Match=Bar SecondPilot=Pass 23pmRule=Yes FastSex=Yes  
+Opponent=Higher Match=Cafe SecondPilot=Play 23pmRule=Yes FastSex=Yes 
+Opponent=Higher Match=Bar SecondPilot=Pass 23pmRule=Yes FastSex=No
+Opponent=Lower Match=Bar SecondPilot=Play 23pmRule=No FastSex=Yes
+Opponent=Higher Match=Bar SecondPilot=Pass 23pmRule=No FastSex=Yes
+Opponent=Lower Match=Cafe SecondPilot=Pass 23pmRule=Yes FastSex=Yes
+Opponent=Lower Match=Bar SecondPilot=Pass 23pmRule=Yes FastSex=Yes
+Opponent=Higher Match=Bar SecondPilot=Play 23pmRule=Yes FastSex=No
+

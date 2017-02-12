@@ -1,0 +1,16 @@
+Opponent=Higher
+	23pmRule=Yes
+		Match=Bar
+			0
+		Match=Cafe
+			1
+	23pmRule=No
+		1
+Opponent=Lower
+	Match=Bar
+		1
+	Match=Cafe
+		23pmRule=Yes
+			1
+		23pmRule=No
+			0
